@@ -1,5 +1,6 @@
 _Number Guessing Game_
 This is a simple number guessing game implemented in Python. The game generates a random 4-digit number and prompts the user to guess the number within 8 attempts.
+
 **How to Play**
 1. Run the Python script number_guessing_game.py.
 2. Follow the on-screen instructions to start the game.
@@ -12,6 +13,7 @@ This is a simple number guessing game implemented in Python. The game generates 
 **Requirements**
 Python 3.x
 (No additional dependencies required.)
+
 **Usage**
 Clone or download the repository to your local machine.
 Open a terminal or command prompt.
