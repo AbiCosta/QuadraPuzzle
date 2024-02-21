@@ -16,7 +16,7 @@ Python 3.x
 (No additional dependencies required.)
 
 **Usage**
-Clone or download the repository to your local machine.
-Open a terminal or command prompt.
-Navigate to the directory containing the QuadraPuzzle.py file.
-Run the command python QuadraPuzzle.py to start the game.
+1. Clone or download the repository to your local machine.
+2. Open a terminal or command prompt.
+3. Navigate to the directory containing the QuadraPuzzle.py file.
+4. Run the command python QuadraPuzzle.py to start the game.
