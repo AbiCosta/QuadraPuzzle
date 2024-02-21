@@ -10,6 +10,7 @@ This is a simple number guessing game implemented in Python. The game generates 
 6. You have 8 attempts to guess the correct number.
 7. If you guess the number correctly within 8 attempts, you win the game and earn points based on the number of attempts.
 8. After the game ends, you have the option to play again or exit.
+
 **Requirements**
 Python 3.x
 (No additional dependencies required.)
